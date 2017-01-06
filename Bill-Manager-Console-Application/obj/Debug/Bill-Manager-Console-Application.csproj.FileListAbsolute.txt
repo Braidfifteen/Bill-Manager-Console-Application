@@ -1,0 +1,6 @@
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\bin\Debug\Bill-Manager-Console-Application.exe.config
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\bin\Debug\Bill-Manager-Console-Application.exe
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\bin\Debug\Bill-Manager-Console-Application.pdb
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\obj\Debug\Bill-Manager-Console-Application.csprojResolveAssemblyReference.cache
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\obj\Debug\Bill-Manager-Console-Application.exe
+S:\My-Projects\Bill-Manager-Console\Bill-Manager-Console-Application\Bill-Manager-Console-Application\obj\Debug\Bill-Manager-Console-Application.pdb
